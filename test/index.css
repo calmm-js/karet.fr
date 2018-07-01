@@ -1,0 +1,10 @@
+.testView {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imagePreview {
+  margin: 20px;
+}
