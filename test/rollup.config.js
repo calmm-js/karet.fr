@@ -35,7 +35,8 @@ export default {
           'PureComponent',
           'createContext',
           'createElement',
-          'forwardRef'
+          'forwardRef',
+          'useContext'
         ],
         'node_modules/kefir/dist/kefir.js': [
           'Observable',
